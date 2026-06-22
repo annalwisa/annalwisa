@@ -1,4 +1,4 @@
-<h1 align="center">Hello world, I'm Anna Luisa 👋</h1>
+<h1 align="center">Hello world, I'm Anna Luisa ☕</h1>
 
 <p align="center">
   <em>
