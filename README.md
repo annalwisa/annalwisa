@@ -29,12 +29,12 @@
 
 ### 🌱 About me
 
-- 🎓 Studying **Computer Science**
-- 💻 I build projects with **Dart/Flutter, Swift, TypeScript and Python**
-- 🚀 Currently focused on mobile development and solutions with social impact
+- 🎓 Computer Science student passionate about AI and software engineering
+- 🤖 Building intelligent applications with **Python, TypeScript, Swift and Flutter**
+- 📱 Currently exploring **Mobile Development, Natural Language Processing and Computer Vision**
+- 🔬 Interested in AI agents and research-driven innovation
 - 🌎 Based in **Brazil**
-- 💬 Ask me about **programming, mobile and academic projects**
-- ⚡ Fun fact: I love turning ideas into apps that help people
+- 💡 I enjoy transforming complex ideas into practical solutions that make people's lives easier
 
 ---
 
