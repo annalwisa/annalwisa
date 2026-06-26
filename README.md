@@ -27,7 +27,7 @@
 
 ---
 
-### 🌱 About me
+### About me
 
 - 🎓 Computer Science student passionate about AI and software engineering
 - 🤖 Building intelligent applications with **Python, TypeScript, Swift and Flutter**
@@ -38,7 +38,7 @@
 
 ---
 
-### 🔗 Let's connect
+### Let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anna-luisa-brandao" target="_blank">
