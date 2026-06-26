@@ -9,7 +9,7 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annalwisa&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annalwisa&layout=compact&theme=tokyonight&langs_count=5&hide_border=true" />
 </p>
 
 ---
