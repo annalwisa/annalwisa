@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img height="150" alt="jiji" src="https://github.com/user-attachments/assets/c88f894f-9cf1-4539-8fa4-1ae44d739387" />
+  <img height="180" alt="jiji" src="https://github.com/user-attachments/assets/c88f894f-9cf1-4539-8fa4-1ae44d739387" />
 
 
 </div>
