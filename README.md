@@ -34,7 +34,7 @@
 <div align="center">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=annalwisa&rank_icon=github&show_icons=true&theme=midnight-purple&count_private=true">
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=annalwisa&layout=compact&theme=midnight-purple&count_private=true">
-  <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annalwisa&theme=shades_of_purple"/></div>
+  <img height="195" src="https://streak-stats.demolab.com/?user=annalwisa&theme=midnight-purple" /></div>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
