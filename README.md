@@ -1,53 +1,96 @@
-<h1 align="center">Hello World, I'm Anna ☕</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:4c1d95,50:7c3aed,100:c084fc&section=header"/>
 
-<p align="center">
-  <em>Computer Science student 🇧🇷 passionate about technology, code, and solving real-world problems.</em>
-</p>
+<br>
 
----
+<div align="center">
+  <img height="150" alt="jiji" src="https://github.com/user-attachments/assets/c88f894f-9cf1-4539-8fa4-1ae44d739387" />
 
-### 📊 Most Used Languages
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annalwisa&layout=compact&theme=tokyonight&langs_count=5&hide_border=true" />
-</p>
+</div>
 
----
+<div align="center">
+  
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Anna</b>
+  </samp>
+</div>
 
-### 🛠️ Tech & Tools
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9333ea&width=900&size=22&center=true&lines=I'm+from+Brazil;Computer+Science+student;Building+projects+with+code;Be+welcome!" alt="Typing SVG"/>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+<br>
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/anna_♡-black" />
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=annalwisa&rank_icon=github&show_icons=true&theme=midnight-purple&count_private=true">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=annalwisa&layout=compact&theme=midnight-purple&count_private=true">
+  <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annalwisa&theme=shades_of_purple"/></div>
 
-### About me
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Swift.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  
+</div>
 
-- 🎓 Computer Science student passionate about AI and software engineering
-- 🤖 Building intelligent applications with **Python, TypeScript, Swift and Flutter**
-- 📱 Currently exploring **Mobile Development, Natural Language Processing and Computer Vision**
-- 🔬 Interested in AI agents and research-driven innovation
-- 🌎 Based in **Brazil**
-- 💡 I enjoy transforming complex ideas into practical solutions that make people's lives easier
+<br>
+<br>
 
----
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
 
-### Let's connect
+##
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anna-luisa-brandao" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/annalwisa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br>
 
----
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
 
+  [![GitHub](https://img.shields.io/badge/GitHub-9333ea?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/annalwisa)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-9333ea?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/anna-luisa-brandao/)
+  
+</div>
+
+<br>
+
+</details>
+
+##
+
+<br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=annalwisa&style=flat-square&color=6b21a8" /></p> 
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:4c1d95,50:7c3aed,100:c084fc&section=footer"/>
